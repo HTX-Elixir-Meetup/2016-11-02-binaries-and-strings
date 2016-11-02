@@ -53,7 +53,7 @@
   1
   ```
 
- ## There be dragons 🐉
+### There be dragons 🐉
 
   Some characters can be represented as one codepoint or as a combination of multiple codepoints:
   
